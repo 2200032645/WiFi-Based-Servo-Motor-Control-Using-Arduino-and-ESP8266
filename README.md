@@ -99,13 +99,8 @@ This project highlights the integration of **Embedded Systems** and **IoT (Inter
 
 ---
 
-## 📷 Project Demo (Optional)
 
-> *(Here you can add images, circuit diagrams, or demo GIFs later once tested.)*
 
----
-
-## 📝 Author
-
-Developed by **\[Your Name]** using Arduino IDE, ESP8266, and Servo motor.
+## CIRCUIT REPRESENTATION
+<img width="1536" height="1024" alt="Wi-Fi Servo Motor Control Schematic" src="https://github.com/user-attachments/assets/4fa3e4e1-5ed7-4317-88ea-4cb5a1fe14af" />
 
